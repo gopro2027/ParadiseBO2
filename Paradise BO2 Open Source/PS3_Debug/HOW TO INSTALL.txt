@@ -1,0 +1,3 @@
+Put ParadiseBO2.sprx in /dev_hdd0/tmp/ParadiseBO2.sprx
+Put EBOOT.BIN in your Black Ops 2 USRDIR folder
+Run bo2 and you should get a notification saying welcome to paradise!

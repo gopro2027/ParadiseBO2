@@ -1,0 +1,10 @@
+Copyright© http://paradisesprx.com by gopro_2027
+
+COD BO2 SPRX v1.2
+
+Open: L1 + Dpad UP
+Scroll: DPad up/down
+Change Window: R1/L1
+Select: L3
+Exit: R3
+Edit Value: DPad left/right or Square for keyboard dialog
